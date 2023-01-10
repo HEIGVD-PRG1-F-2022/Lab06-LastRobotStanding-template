@@ -1,6 +1,6 @@
 # Ceci est la feuille d'évaluation pour le labo 06 - Last Robot Standing
 
-Le projet doit être rendu pour lundi 12 décembre, 23:59, UTC+1 en faisant un commit sur le repo du github classroom.
+Le projet doit être rendu pour vendredi, 23 décembre, 23:59, UTC+1 en faisant un commit sur le repo du github classroom.
 
 ## GÉNÉRAL
 
@@ -30,6 +30,7 @@ Le projet doit être rendu pour lundi 12 décembre, 23:59, UTC+1 en faisant un c
 1. 0/3 Commandes supplémentaires: 2 - bonus, 1 - radar
 1. 0/3 Plusieurs robots avec deathmatch: 2 - simple, 1 - avec replay
 1. 0/3 Place dans le deathmatch final: 1 - 3. place, 2 - 2. place, 3 - 1. place
+1. 0/4 Ecriture des classes de librobots par vous-mêmes: 1 - Position, 1 - Messages, 2 - RobotState
 
 ## PÉNALITÉS DIVERSES (DIRECTEMENT SUR LA NOTE)
 
@@ -40,5 +41,5 @@ Le projet doit être rendu pour lundi 12 décembre, 23:59, UTC+1 en faisant un c
 
 ## NOTE FINALE
 
-- Points: x/36 (45 avec bonus)
+- Points: x/36 (49 avec bonus)
 - Note, limitée entre 1 et 6 = 1 + 5 * x/36 - y
